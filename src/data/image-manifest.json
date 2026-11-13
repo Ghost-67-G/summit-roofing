@@ -1,0 +1,379 @@
+{
+  "about-team": {
+    "width": 2000,
+    "height": 1333,
+    "widths": [
+      480,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "hash": "7ee2233c",
+    "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoUAA0APtFWpEuoJKOhsAgBABoJYwCsACGsdNhKDSCfQAD+8jRDvP77pZe/jEJaBhEBuHu9rlBmTFaZpFY37z5D9IikKQj4wYpV4Jpk0AA="
+  },
+  "charlotte-skyline": {
+    "width": 2000,
+    "height": 1125,
+    "widths": [
+      480,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "hash": "4e859f42",
+    "placeholder": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAwAwCdASoUAAsAPtFYpEuoJSOhsAgBABoJQBYdhaD431DgAP7sslf/oClT+WwkRgycBanSOf6NSLcmJfn/4lRHj4JTlQT4gAA="
+  },
+  "financing-home": {
+    "width": 2000,
+    "height": 1324,
+    "widths": [
+      480,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "hash": "20fc1e61",
+    "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACQAwCdASoUAA0APtFYpEuoJSOhsAgBABoJZACdACHNGFvv2HYAAP7f9IzwN6CLllypH5e6Ezu5LFl+NJQkzNv/eYj8RHNhzxINhKaKGvokAA=="
+  },
+  "hero-roof-crew": {
+    "width": 2600,
+    "height": 1271,
+    "widths": [
+      480,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "hash": "9c35070a",
+    "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBACdASoUAAoAPtFWpUwoJKOiMAgBABoJQBOmUABoJt+jHhx1byw6AAD8117SZHMd49zjLTC6eiv0gkIC0O9+m9NlyaW4ptIYHQwoDoyLpD0WZeierSAA"
+  },
+  "project-1-after": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      400,
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "hash": "e2da4e5d",
+    "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwBACdASoUAA0APtFWo0uoJKMhsAgBABoJYgCdACFrQaT4Ls/xEuCqpCAA/q6jmqr/+fOPbNGBMWvImK/4BE2zgDWaOMMFp+MhXvo+GkFP9UbeYGKbO0BRwAA="
+  },
+  "project-1-before": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      400,
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "hash": "a29ec504",
+    "placeholder": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAABwAwCdASoUAA0APtFWo0uoJKMhsAgBABoJZwAASqhv5LwvkQAA/p7F8iDJ3allunswoQZYM1IsyMAAAAA="
+  },
+  "project-2-after": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      400,
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "hash": "a82b3115",
+    "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAwCdASoUAA0APtFapkuoJaOhsAgBABoJQAALjHnrPleaKIDjqfAA/qntix+drjg6D28jlNobcPyr/4W0IRwmNVf5W+0+oyt4dqDkEhDbkTvMtrSZY8P3KdeAAA=="
+  },
+  "project-2-before": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      400,
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "hash": "9e38dda9",
+    "placeholder": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACQAwCdASoUAA0APtFWpUwoJKOiMAgBABoJZQC+SB46r8jMlA7AAPsgL3jTvSfrxTV9Oqz4jGcT9fve22Nsigar3RLXq1Vv1S4agAAA"
+  },
+  "project-3-after": {
+    "width": 1600,
+    "height": 1060,
+    "widths": [
+      400,
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "hash": "427e771e",
+    "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQBACdASoUAA0APtFUo0uoJKMhsAgBABoJZACdGuAAWHS8itqeeOdQAAD+8APIqMbCefvGE3pcmmwsUngsJKhx8rtbNCuI5GbPpiS485wjfFq9yc6GH/KrapMJQAAA"
+  },
+  "project-3-before": {
+    "width": 1600,
+    "height": 775,
+    "widths": [
+      400,
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "hash": "4a420149",
+    "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQBACdASoUAAoAPtFUpEuoJKOhsAgBABoJYwC2yCHeupDAbRNavs5AAAD+5/t0GnM1AXbH4m9LeXEnTmLxBgt0L51YKEBm3Zll9rYpRxNy9eAAAAA="
+  },
+  "project-4-after": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      400,
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "hash": "d080b5bf",
+    "placeholder": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAwCdASoUAA0APtFWpUwoJKOiMAgBABoJZQBUfoef5L6CaELeI4AA/t7Mfk8YfOiCnE2tl8S6dj2OAIsCYQC0IAA="
+  },
+  "project-4-before": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      400,
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "hash": "7d5186a7",
+    "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwBACdASoUAA0APtFWo0uoJKMhsAgBABoJYwBU4AbobdM+DMv2tI1KPqAA+yHW1C561YsFqO81toH6SnmCyuqfaMWvV7JlQDE5is9GQdVvcdz4DUTr0pkwAAA="
+  },
+  "project-5-after": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      400,
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "hash": "5e27519c",
+    "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACQAwCdASoUAA0APtFWpEuoJKOhsAgBABoJagCdIDZDAStF/kmQAPFxhJWJo+UMy4rONwebH+LZcANP+OFd/kmDT5qUq2wJdxDqfZ6dpl1wAA=="
+  },
+  "project-5-before": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      400,
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "hash": "a57c4570",
+    "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACQAwCdASoUAA0APtFWpEuoJKOhsAgBABoJQBdgAsnq1w1Bt57wAP7lG8Hlz9pRaamPv2kI9GerTgwTXx+Olm9W/cgYW6H6BwL5mG8b7Da7n3Lh31CgAA=="
+  },
+  "project-6-after": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      400,
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "hash": "9c196b05",
+    "placeholder": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAwCdASoUAA0APtFUo0uoJKMhsAgBABoJZQCdABoeM0q079oZHiAA/puorFxRqDGICsH1xO1qLu6GBp2XcaOrlVDdBanm7Ql65vgA"
+  },
+  "project-6-before": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      400,
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "hash": "c7a79ad2",
+    "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAwCdASoUAA0APtFUo0uoJKMhsAgBABoJaADCgCGw3Ad1x7/SkNgAAP7jEF3gktZYlhiJRkU4nSDNXywpmH+ohqAJvBVgj/oYM02Kz4OxveJO4Yjk7tP8JKUgAA=="
+  },
+  "project-7-after": {
+    "width": 1600,
+    "height": 1046,
+    "widths": [
+      400,
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "hash": "bfb66144",
+    "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBACdASoUAA0APtFWpEuoJKOhsAgBABoJYgC7ACEtyLfaNlAUKh/0gAD+8jtWke+4phoZTuZdwUqXFYWu4XrH+MbdhusedOFcMRSoeVbbjU86I2xnkAAA"
+  },
+  "project-7-before": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      400,
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "hash": "7bc3186e",
+    "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoUAA0APtFWo0uoJKMhsAgBABoJZgCdGsqgI+htKPBWTAAA/nD8Pa9j6rQh+3ca84LS/dkBlQ3SZqWiOwMhbCwUzJTDvQ7x8xsoHKxqscAAAA=="
+  },
+  "project-8-after": {
+    "width": 1600,
+    "height": 869,
+    "widths": [
+      400,
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "hash": "8cd4b258",
+    "placeholder": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACQAwCdASoUAAsAPtFYpEuoJSOhsAgBABoJZgCdACHYAFWRrfYAAP7DhEqdSOTNb2wgOFerW/NlzcxCygZ+l/o2jtV1q/j5+40eQAAA"
+  },
+  "project-8-before": {
+    "width": 1600,
+    "height": 868,
+    "widths": [
+      400,
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "hash": "248c9ce2",
+    "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoUAAsAPtFWpEwoJKOiMAgBABoJQBdj+ABfl57+xVKtwAD5P5qV+C+cPrm1MbHaqduNxL5Eu8ORi72fEfGwZ1SU5s9SCBctW9AmPJM+AAA="
+  },
+  "project-9-after": {
+    "width": 1600,
+    "height": 1067,
+    "widths": [
+      400,
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "hash": "41de0791",
+    "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAwCdASoUAA0APtFYpEwoJSOiMAgBABoJagC/OCG0kw30aUOrWAD+04tX+vqiuL8qMfCEFAh5BP94NwujdYg2Nx90Yl4RRYzpZCUDnoCM+fN8O3GYIAAA"
+  },
+  "project-9-before": {
+    "width": 1600,
+    "height": 1068,
+    "widths": [
+      400,
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "hash": "0797e318",
+    "placeholder": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAABwAwCdASoUAA0APtFUpEuoJKOhsAgBABoJYwCdADKK3IS0hIAA/uZB+1ljHTg2+LCadx2ZQguVOM7iVMNF74u69mVcxXAA"
+  },
+  "service-commercial": {
+    "width": 2000,
+    "height": 1193,
+    "widths": [
+      480,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "hash": "4929acd9",
+    "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoUAAwAPtFWpEwoJKOiMAgBABoJZQCdMvICtaF3IABBb5LQAP7eFOIDiyYkcwgAC8H5AgD4ylKRs2C3E29ZFN8yGs0tqYOeG2unaAAA"
+  },
+  "service-gutters": {
+    "width": 2000,
+    "height": 1333,
+    "widths": [
+      480,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "hash": "1972201c",
+    "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBACdASoUAA0APtFUpEuoJKOhsAgBABoJagCdMoMYADW48A7bYV9wAAD+p7D1BjDNtVx9e+wTpL8fufv/wx/f9L/6rqoJndsb1oF2ESlG5XQHN72a6IAA"
+  },
+  "service-inspection": {
+    "width": 2000,
+    "height": 1333,
+    "widths": [
+      480,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "hash": "4052a941",
+    "placeholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAAAQAwCdASoUAA0APtFUo0uoJKMhsAgBABoJaQAAetEJbEgA/uhtCPpu/ryPByMv3MCh/gAA"
+  },
+  "service-insurance": {
+    "width": 2000,
+    "height": 1333,
+    "widths": [
+      480,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "hash": "3e5fe692",
+    "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoUAA0APtFapEwoJSOiMAgBABoJZQCsACG5B3D63A1NgAD5TWPWNTg7SwzCTLOBtVVwrbqhwtj9wYl6Py+IPkURwPzy+1+Z1yKzQR8YAAA="
+  },
+  "service-repair": {
+    "width": 2000,
+    "height": 1333,
+    "widths": [
+      480,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "hash": "beb16e1b",
+    "placeholder": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACwAwCdASoUAA0ALplotFoiqCgoCACYSgCdMoAEpSvqyED27Flv4AD+uhZPkxwSHStPIfGgTBehb110+4Jk5Mj3mKGPrnnsBULQYPF9paQ/XkbryntGoQQ8O46q9RkXAdgAAA=="
+  },
+  "service-replacement": {
+    "width": 2000,
+    "height": 1333,
+    "widths": [
+      480,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "hash": "f4bb7816",
+    "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACQAwCdASoUAA0APtFWpEuoJKOhsAgBABoJQBOgBDmcX9jyqZUAAP7TUpSC/MXkSvE9QrKS+2pqFY/fVixakq0+mIM+Ylq+D/QzBv1VpLV5MEAA"
+  },
+  "service-storm-damage": {
+    "width": 2000,
+    "height": 1364,
+    "widths": [
+      480,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "hash": "40c2e884",
+    "placeholder": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAwCdASoUAA4APtFapkuoJaOhsAgBABoJZQDE2CHXGimKc9PigAD+6992ouLHJvLbEf3Et6tr2Np+nm7BeKRUWCNrG61lSAAAAA=="
+  }
+}
